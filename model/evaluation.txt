@@ -1,0 +1,4 @@
+PSNR: 7.34, SSIM: -0.0199, LPIPS: 1.2492 (20240630_224700), Model Name£ºmodel_pt/model_epoch_1.pth
+PSNR: 6.78, SSIM: -0.0090, LPIPS: 1.2163 (20240630_224728), Model Name£ºmodel_pt/model_epoch_2.pth
+PSNR: 5.68, SSIM: 0.0055, LPIPS: 0.7696 (20240701_105932), Model Name£ºmodel_pt/model_epoch_10.pth
+PSNR: 5.74, SSIM: 0.0069, LPIPS: 0.7420 (20240812_121621), Model Name£ºmodel_pt/model_epoch_10.pth
